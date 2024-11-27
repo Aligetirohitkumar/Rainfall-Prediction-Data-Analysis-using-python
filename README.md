@@ -10,14 +10,14 @@ This project demonstrates advanced data analysis techniques using Python and Jup
 Key Details:
 Dataset Used:
 
-austin_weather.csv: The raw dataset containing weather data from Austin, Texas.
+austin_weather.csv: The raw dataset containing weather data from Austin
 austin_weather_final.csv: The processed dataset created after cleaning and transforming the raw data for analysis.
 Process Overview:
 
-Data Cleaning: Addressed missing values and inconsistencies in austin_weather.csv.
-Data Transformation: Extracted relevant features and prepared austin_weather_final.csv for analysis.
-Analysis: Performed exploratory data analysis (EDA) to understand patterns and correlations.
-Visualizations: Created various plots and graphs to highlight key insights and trends.
+1.Data Cleaning: Addressed missing values and inconsistencies in austin_weather.csv.
+2.Data Transformation: Extracted relevant features and prepared austin_weather_final.csv for analysis.
+3.Analysis: Performed exploratory data analysis (EDA) to understand patterns and correlations.
+4.Visualizations: Created various plots and graphs to highlight key insights and trends.
 Outputs:
 The results of the analysis are visualized in the form of PNG images, showcasing insights into rainfall detection and related weather patterns.
 
